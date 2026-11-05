@@ -1,3 +1,18 @@
+TEMPORARY FORK FOR VIVLIOSTYLE CLI
+
+This fork provides a prerelease build of the MuPDF.js for Vivliostyle CLI
+(https://github.com/vivliostyle/vivliostyle-cli).
+
+This prerelease exists mainly to pick up the following fixes before they
+appear in an official MuPDF release:
+
+- https://bugs.ghostscript.com/show_bug.cgi?id=709796
+  (already on the 1.28.x branch, but not yet in a release)
+- https://bugs.ghostscript.com/show_bug.cgi?id=709802
+- https://bugs.ghostscript.com/show_bug.cgi?id=709930
+
+---
+
 ABOUT
 
 MuPDF is a lightweight open source software framework for viewing and converting
